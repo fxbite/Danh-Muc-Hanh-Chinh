@@ -1,0 +1,4 @@
+GET /unit/city             Show all cities and provinces
+GET /unit/district/{id}    Show all districts by city
+GET /unit/ward/{id}        Show all wards by district
+
